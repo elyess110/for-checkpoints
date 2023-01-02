@@ -1,1 +1,1 @@
-# for-checkpoints
+# doomf3
